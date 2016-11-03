@@ -301,3 +301,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# File types
+*.lib
+
+# Directories
+IDConsoleApi/Debug Static/*
+IDConsoleApi/Release Static/*
+PaintClient/Debug Static/*
+PaintClient/Release Static/*
